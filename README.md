@@ -18,4 +18,4 @@ from infomaniakclient import Action
 r = Client('API_KEY', 'API_SECRET')
 ```
 
-You'll find some examples in the examples.py file in this github's repo.
+You'll find some examples in this repos examples.py file.

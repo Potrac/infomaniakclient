@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setuptools.setup(
     name="infomaniakclient",
-    version="0.0.2",
+    version="0.0.3",
     author="Potrac Grognuz",
     author_email="potrac@grognuz.site",
     description="Infomaniak Newsletter API client",
