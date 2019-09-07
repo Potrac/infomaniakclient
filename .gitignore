@@ -2,3 +2,4 @@
 build/
 dist/
 infomaniakclient.egg-info
+infomaniakclient/__pycache__/
