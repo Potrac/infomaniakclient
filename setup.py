@@ -14,7 +14,7 @@ setuptools.setup(
     description="Infomaniak Newsletter API client",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Potrac/infomaniakclient",
+    url="https://github.com/ogrnz/infomaniakclient",
     keywords="infomaniak newsletter api client",
     packages=setuptools.find_packages(),
     classifiers=[
